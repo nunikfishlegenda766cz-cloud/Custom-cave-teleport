@@ -1,0 +1,8 @@
+name: CavePlugin
+version: 1.0
+main: com.example.cave.CavePlugin
+api-version: 1.20
+commands:
+  cave:
+    description: Teleportuje tě do nejbližší jeskyně
+    usage: /cave
